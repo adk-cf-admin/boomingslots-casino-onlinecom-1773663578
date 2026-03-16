@@ -1,0 +1,200 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#0D0D0D",
+            "lang-select-color": "#222829",
+            "bg-light": "#0D0D0D",
+            "welcome-bonus-bg": "#0D0D0D",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#1F1E1F",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#E23721",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#F9B50E",
+            "yellow": "#E23721",
+            "yellow-button": "#f5af00",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#E23721",
+            "casino-cards": "#0D0D0D",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#E23721",
+            "providers-back": "#0D0D0D",
+            "faq-label": "#0D0D0D",
+            "bg-footer": "#0D0D0D",
+            "copyright": "#e7e7d5",
+            "starColor": "#E23721",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4515"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4516",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "BoomingSlots Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4517",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "BoomingSlots"
+        }
+    },
+    "pages": [
+        {
+            "id": "en-gb-en-GB",
+            "path": "\/",
+            "name": "Английский",
+            "languageCode": "en",
+            "regionCode": "GB",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "BoomingSlots",
+                    "title": "BoomingSlots — 250 Free Spins, 200% Bonuses, Live Games, and Sportsbook",
+                    "description": "BoomingSlots Casino brings together modern slots, live casino content, sports betting, cashback, tournaments, and flexible payment options. We offer welcome bonuses, wager-free spins, VIP access, and a broad mix of game formats.",
+                    "canonical": "boomingslots-casino-online.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4518",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "boomingslots-casino-online.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4519"
+                },
+                "hero": {
+                    "title": "BoomingSlots — Slots, Live Casino, Bonuses, and Sportsbook in One Account",
+                    "textDesktop": "Exclusive welcome offer of",
+                    "textMobile": "Exclusive welcome bonus of",
+                    "playGame": "Play game",
+                    "claimBonus": "Claim Bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4520",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": -3,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4521",
+                    "mobileImageSizeModifier": 0,
+                    "mobileImageYModifier": 1,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Claim Bonus",
+                    "title": "Top Casinos",
+                    "allCasino": "All Casino",
+                    "welcomeBonusText": "Welcome bonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonus Details",
+                    "getBonusButtonText": "Get Bonus",
+                    "maximumAmountText": "Maximum amount",
+                    "wagerText": "Wager",
+                    "bonusCodeText": "Bonus Code",
+                    "casino": "Casino",
+                    "bonuses": "Bonuses",
+                    "rate": "Rate",
+                    "freeSpins": "Free Spins",
+                    "moreInfo": "More Info",
+                    "get": "Get",
+                    "refresh": "Refresh"
+                },
+                "advantages": {
+                    "title": "Advantages",
+                    "advantagesBeforeText": "",
+                    "items": [
+                        "250 wager-free spins from the start",
+                        "Three welcome stages with strong bonuses",
+                        "Slots, live casino, and sports betting",
+                        "Daily cashback supports a steadier session",
+                        "Cards, wallets, and crypto stay available",
+                        "VIP access adds tailored perks and support",
+                        "Promotions remain clear, simple, and structured"
+                    ],
+                    "advantagesAfterText": "At BoomingSlots, we focus on game variety, flexible promotions, and easy payments. We aim to keep the experience broad enough for slot players, live casino fans, and sportsbook users in one place. What stands out most is the balance between a strong welcome package, ongoing rewards, and a smooth payment setup.",
+                    "knowMore": "Know more",
+                    "appTitle": "BoomingSlots App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4522",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "BoomingSlots App",
+                    "mobileGooglePlayImageTitle": "BoomingSlots App",
+                    "mobileIosImageTitle": "BoomingSlots App"
+                },
+                "games": {
+                    "playNowText": "Play now",
+                    "title": "Popular Games",
+                    "allGames": "All Games"
+                },
+                "about": {
+                    "history": {
+                        "title": "About BoomingSlots",
+                        "description1": "At BoomingSlots, we stand out by offering more than one clear welcome route instead of a single fixed promotion. We also combine casino play, live content, sportsbook rewards, and tournament activity inside one account environment.",
+                        "items": [
+                            "200% + 100 free spins first deposit",
+                            "250 free spins with 0x wagering",
+                            "10% cashback and tournaments up to 1,660,000"
+                        ],
+                        "description2": "BoomingSlots is a modern platform for players who want slots, live casino content, bonus offers, VIP access, and sports betting inside one account. We build the experience around variety so users can move from new releases to classic slot play, then into live tables or sportsbook markets without friction. Slots clearly sit at the heart of the platform and shape the overall pace of the lobby. ",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4523",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": "The game mix leans into different mechanics, including classic-style reels, Megaways titles, jackpot options, and themed releases. The live casino section adds a more direct and interactive layer to the experience. One of the strongest parts of the welcome setup is the choice between a first-deposit bonus and wager-free spins. That opening structure makes the start more flexible and lets players choose a format that suits their style. The welcome path continues across later deposits, so the promotional journey does not end after the first step. For users who also like betting, we include a separate sports welcome offer, which makes the brand feel broader than a slots-only project. Day-to-day activity is supported by daily cashback, helping sessions feel more balanced over time. The promotions area is shaped like a system rather than a random collection of one-off offers. Extra depth comes from network and seasonal tournaments, where regular play turns into leaderboard competition with shared prize pools. This expands the entertainment side beyond standard spins alone. The VIP direction strengthens the personal side of the service and gives long-term activity a clearer structure. Within that model, progress feels more visible because game choice, rewards, and service quality start working together. The banking setup is also broad, with support for cards, e-wallets, modern banking tools, and cryptocurrency. Overall, BoomingSlots feels like a slots-led platform with enough additional sections to keep the experience varied and complete."
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "BoomingSlots: your comfort — rules, security, support ",
+                        "description": "<h3 style = \"font-weight: bold;font-size: 32px;\"> BoomingSlots — Access Rules, Platform Use, and Responsible Play <\/h3> <p> Access to BoomingSlots starts with registration and confirmation of core account details. We expect each user to maintain one personal account only and to provide accurate information during sign-up. To use games, bonuses, and financial features, the profile should belong to the real account holder. Age restrictions apply strictly, so access is limited to adult users only. Before playing, it is important to read the bonus terms because activation and withdrawal conditions may differ from one offer to another. At BoomingSlots, the general logic is that only one active bonus is usually used at a time. When a promotion carries wagering requirements, bonus funds need to be completed before withdrawal unless the offer clearly states otherwise. Users must not use someone else’s payment details or share account access with other people. Multi-accounting, technical circumvention, and any action that distorts fair play are not allowed. Bonus abuse is also prohibited, including related-account behaviour aimed at claiming the same promotion more than once. We encourage early verification so deposits and withdrawals can move more smoothly. In live casino play and sports betting, it is important to stay inside personal limits and manage bankroll discipline. Responsible play is not a side note for us; it is part of the full account experience. That is why players should define a suitable budget, session length, and risk level before starting. If gaming stops feeling like entertainment, the right response is to pause, reduce activity, or use self-control tools. A smart visit to BoomingSlots always includes careful attention to the rules of the selected promotion, game, and payment method, because those details shape the final experience. <\/p> <br> <h4 style = \"font-weight: bold; font-size: 24px;\"> Access Conditions <\/h4> <ul> <li>• One personal account per user with real registration details.<\/li> <li>• Age and identity checks may be required for full account access.<\/li> <li>• Use of the platform means accepting game, payment, bonus, and withdrawal rules.<\/li> <li>• Each promotion should be reviewed before activation.<\/li> <\/ul><br> <h4 style = \"font-weight: bold; font-size: 24px;\"> Prohibited Actions <\/h4> <ul> <li>• Using another person’s card, wallet, or payment credentials.<\/li> <li>• Creating multiple accounts or bypassing platform restrictions.<\/li> <li>• Sharing account access with third parties.<\/li> <li>• Re-claiming offers through related or duplicate accounts.<\/li> <\/ul><br> <h4 style = \"font-weight: bold; font-size: 24px;\"> Responsible Play <\/h4> <ul> <li>• Set a personal budget before the session begins.<\/li> <li>• Control time spent playing and overall stake size.<\/li> <li>• Use breaks or self-limitation tools whenever needed.<\/li> <li>• Stop playing when gaming is no longer entertainment.<\/li> <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\"> BoomingSlots — Licensing, Data Protection, and Privacy <\/h3> <p> At BoomingSlots, security starts with the technical protection of the account and every payment flow. Public-facing sections of the platform explicitly mention encrypted technology used to protect personal and financial information, which forms the base layer of the service environment. For the player, this means login details, payment credentials, and transaction history are expected to move through protected channels rather than open transmission. <\/p> <br> <p> When it comes to licensing, accuracy matters. The public pages place stronger emphasis on products, promotions, and payment protection than on a prominently displayed regulatory profile. Because of that, the current legal status and any active licensing details are best checked in the latest account terms and official documentation available within the platform environment. <\/p> <br> <p> Data protection is also tied to account verification. During withdrawal or account review, players may be asked to provide documents that confirm identity, age, address, and ownership of the payment method. This supports security checks, helps reduce fraud risk, and makes the overall payment process more controlled. <\/p> <br> <p> A privacy policy in this context usually covers several layers of information: registration details, transaction records, device data, cookie usage, and behavioural data needed to keep the platform functioning correctly. For players, these sections matter because they explain how information is stored, processed, and used for security, analytics, and customer service. <\/p> <br> <p> Payment security has a separate role of its own. We support familiar options such as bank cards, e-wallets, digital banking tools, and cryptocurrency, and each transaction works best when the account holder’s name matches the payment source. That consistency reduces the chance of additional review, payment friction, or withdrawal delays. <\/p> <br> <p> Overall, security at BoomingSlots is best understood as a combination of encryption, account verification, and careful privacy handling. The more accurately a player completes registration, confirms account details, and uses personal payment methods only, the smoother the wider experience tends to be. <\/p> <br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\"> BoomingSlots — Deposits, Withdrawals, and Payment Limits <\/h3> <p> At BoomingSlots, the payment setup is built around flexibility, giving players access to cards, e-wallets, digital banking tools, and cryptocurrency. We support Visa and Mastercard, along with Skrill, Neteller, and Paysafecard for familiar wallet-based transfers. Apple Pay, Google Pay, Revolut, and Monzo add convenient mobile-friendly funding options. For players who prefer digital assets, Bitcoin, Ethereum, Litecoin, Dogecoin, Tether, and USDC are part of the broader banking mix. Deposits are generally processed quickly, and most methods appear almost instantly after confirmation. Withdrawals depend on both the selected channel and the internal account review stage. Once an account is verified, crypto routes and some wallet-style methods are usually the fastest after approval. Bank card payouts may take longer because external banking processing can add extra time. It is important to treat payout approval and final receipt of funds as separate stages. Before a first withdrawal, it is sensible to complete verification and make sure the payment method belongs to the registered account holder. That reduces the chance of extra checks and delays. Publicly available reviews commonly place the minimum deposit around £20 and the minimum withdrawal around £250. For larger sums, daily and monthly payout limits should be taken into account because they shape the overall withdrawal pace. That is why the payment strategy works best when planned in advance, especially during active play across several promotions. <\/p> <br> <table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-family: sans-serif; color: #ffffff;font-size:14px\"> <thead> <tr style=\"background-color: #E23721;\"> <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Method<\/th> <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Deposit speed<\/th> <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Payout after approval<\/th> <\/tr> <\/thead> <tbody> <tr > <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Visa \/ Mastercard<\/strong><\/td> <td style=\"border: 1px solid #ffffff; padding: 10px;\">Instant<\/td> <td style=\"border: 1px solid #ffffff; padding: 10px;\">3–5 business days<\/td> <\/tr> <tr > <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Skrill \/ Neteller<\/strong><\/td> <td style=\"border: 1px solid #ffffff; padding: 10px;\">Instant<\/td> <td style=\"border: 1px solid #ffffff; padding: 10px;\">Up to 24 hours<\/td> <\/tr> <tr > <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Apple Pay \/ Google Pay<\/strong><\/td> <td style=\"border: 1px solid #ffffff; padding: 10px;\">Instant<\/td> <td style=\"border: 1px solid #ffffff; padding: 10px;\">Up to 24 hours or bank route dependent<\/td> <\/tr> <tr > <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Revolut \/ Monzo<\/strong><\/td> <td style=\"border: 1px solid #ffffff; padding: 10px;\">Instant<\/td> <td style=\"border: 1px solid #ffffff; padding: 10px;\">Up to 24 hours or 1–3 days<\/td> <\/tr> <tr > <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Bitcoin \/ Ethereum \/ USDT<\/strong><\/td> <td style=\"border: 1px solid #ffffff; padding: 10px;\">Instant<\/td> <td style=\"border: 1px solid #ffffff; padding: 10px;\">Up to 24 hours<\/td> <\/tr> <tr > <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Litecoin \/ Dogecoin \/ USDC<\/strong><\/td> <td style=\"border: 1px solid #ffffff; padding: 10px;\">Instant<\/td> <td style=\"border: 1px solid #ffffff; padding: 10px;\">Up to 24 hours<\/td> <\/tr> <\/tbody> <\/table> <br> <h4 style = \"font-weight: bold; font-size: 24px;\"> Withdrawal Limits <\/h4> <ul> <li>• Minimum deposit: from £20.<\/li> <li>• Minimum withdrawal: from £250.<\/li> <li>• Maximum daily withdrawal: up to £1,000.<\/li> <li>• Maximum monthly withdrawal: up to £7,000.<\/li> <li>• Larger cashouts depend on account verification and payment route.<\/li> <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\"> BoomingSlots — Customer Support and Service Quality <\/h3> <p> At BoomingSlots, support is built around clear and fast contact routes. Live chat is usually the main entry point because it lets players receive help while they are playing, depositing, or checking bonus terms. This channel works well for immediate questions and removes the need for long back-and-forth exchanges. Email is better suited to detailed issues, especially when documents, verification steps, or payment clarification are involved. Public reviews most often describe chat as the fastest support route. Email is generally seen as the more formal option for finance-related and account-review matters. Telephone support is far less visible as a primary public channel, so the practical support structure leans more heavily on chat and email. If voice support exists, it is more likely to act as a secondary route rather than the core contact method. In terms of quality, BoomingSlots leans toward speed and accessibility. Chat is most useful for bonus questions, payment guidance, account confirmation, and basic technical issues. Email works better when a written trail and a more complete response are important. That division makes the service easier to use because different issue types fit naturally into different channels. Language support appears to centre mainly on English-speaking assistance and an English-led interface. In some cases, extra language help may be available, but depth can vary depending on the request and timing. The smoothest way to contact support is to keep the message short, precise, and tied to the account or issue in question. That usually leads to faster and more useful replies. Overall, support at BoomingSlots feels practical: quick chat for immediate matters, email for more complex cases, and a straightforward path for issue handling. <\/p> <br> <h4 style = \"font-weight: bold; font-size: 24px;\"> Contact Channels <\/h4> <ul> <li>• Live chat for quick questions about games, bonuses, and payments.<\/li> <li>• Email for verification, disputes, documents, and account follow-up.<\/li> <li>• Telephone is not the main public channel and may be limited.<\/li> <\/ul><br> <h4 style = \"font-weight: bold; font-size: 24px;\"> Response Time and Service <\/h4> <ul> <li>• Live chat is usually the fastest support option.<\/li> <li>• Email suits formal and more detailed requests.<\/li> <li>• Service quality improves when the issue is described clearly and briefly.<\/li> <\/ul><br> <h4 style = \"font-weight: bold; font-size: 24px;\"> Language Availability <\/h4> <ul> <li>• English appears to be the main support language.<\/li> <li>• The interface is structured for straightforward international use.<\/li> <li>• Extra language assistance may depend on the request itself.<\/li> <\/ul><br>"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Software Providers"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Entertainment and Gaming at BoomingSlots",
+                        "description": "<h3 style = \"font-weight: bold;font-size: 32px;\"> BoomingSlots — Loyalty Program and VIP Levels <\/h3> <p> The loyalty program at BoomingSlots feels like a natural extension of regular play rather than a separate closed-off area for only a few users. We connect the VIP direction to ongoing gaming activity, repeat deposits, and overall account engagement. For the player, that makes progression feel organic: the more actively the account is used, the more tailored the overall experience becomes. The presence of a dedicated VIP section already suggests a longer-term reward model where benefits continue after the welcome stage. In practice, the value of the program is usually seen through cashback, tailored offers, priority handling, and stronger attention to active players. In some publicly listed bonus descriptions, loyalty tiers are presented as Bronze, Silver, Gold, and The Kings. That type of structure points to step-by-step progression rather than one-time status access. Joining the loyalty journey typically does not require a separate form, because participation begins through the regular account after registration, deposit activity, and qualifying play. That makes the path simpler, since the user stays inside the same account instead of completing extra enrolment stages. Level progression may depend on real-money gameplay, deposit activity, and internal qualification criteria. Exact thresholds are not always publicly fixed, so the clearest signal tends to be the intensity and consistency of account use. From a benefits perspective, the program matters because it makes ongoing play feel more structured. Instead of treating every user in the same way, the system introduces a sense of status and visible progress. This is especially noticeable in the reward layer, where VIP standing can affect cashback style and personal offer quality. Public bonus examples include cashback levels such as 5% for Bronze, 10% for Silver, 15% for Gold, and 20% for The Kings. Beyond cashback, the loyalty model can also strengthen tailored promotions, access to selected offers, and the general comfort of account support. As a result, the VIP system at BoomingSlots works like a soft premium layer over the main casino, enriching the standard experience for users who remain active over time. <\/p> <br> <h4 style = \"font-weight: bold; font-size: 24px;\"> Registration Conditions <\/h4> <ul> <li>• A standard account must be created and verified.<\/li> <li>• Real-money play and deposits usually trigger qualifying activity.<\/li> <li>• A separate VIP enrolment form is not usually required.<\/li> <li>• Status grows as the account becomes more active.<\/li> <\/ul><br> <h4 style = \"font-weight: bold; font-size: 24px;\"> Levels and How to Reach Them <\/h4> <ul> <li>• Bronze — the starting VIP step once regular account activity begins.<\/li> <li>• Silver — the next level reached through stronger ongoing play.<\/li> <li>• Gold — a tier linked to stable and higher-volume activity.<\/li> <li>• The Kings — the upper level for the most active players.<\/li> <li>• Progress between levels is usually tied to cumulative activity and internal criteria.<\/li> <\/ul><br> <h4 style = \"font-weight: bold; font-size: 24px;\"> Bonuses and Benefits <\/h4> <ul> <li>• Bronze Cashback — around 5% in selected offers.<\/li> <li>• Silver Cashback — around 10% in selected offers.<\/li> <li>• Gold Cashback — around 15% in selected offers.<\/li> <li>• The Kings Cashback — up to 20% in selected offers.<\/li> <li>• Personal offers — rewards adjusted to playing style.<\/li> <li>• Priority support — quicker handling of more complex requests.<\/li> <li>• Enhanced account care — a more tailored overall experience for active users.<\/li> <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\"> BoomingSlots — Bonuses, Special Offers, and Tournaments <\/h3> <p> At BoomingSlots, the bonus system feels layered and gives players several ways to start and continue. The core of the structure is the welcome path, where users can choose between a first-deposit bonus and a package of wager-free spins. That approach works well because one player may prefer a balance boost while another may want direct spin volume from the beginning. After the first step, the promotional route continues across the second and third deposits, giving the entry into the platform a more complete shape. Beyond the welcome phase, the site also leans into recurring offers. These include daily cashback, weekly reload-style rewards, and themed spin campaigns. Public promo descriptions include a Wednesday Reload worth 100% up to 500 and a Friday & Saturday SpinSanity offer with 77 free spins on selected slots. That shows the regular bonus flow is built not only around deposits but also around event-style gameplay. A separate sports welcome offer adds depth beyond the casino side alone. Cashback matters too, because it helps make the wider rhythm of play feel more manageable after weaker sessions. The clearest competitive element comes through tournaments. Network tournaments turn regular play into leaderboard competition, and total prize pools can reach 1,660,000. Seasonal events add smaller but still meaningful prize structures from 3,000 and above. Because of that, the BoomingSlots promotions area feels like an active system rather than a single static offer. Another strong point is that the bonus rules are presented in a more structured way, making it easier to understand activation, wagering, and withdrawal conditions. The result is a broader ecosystem: welcome bonuses, free spins, cashback, reload mechanics, sports offers, and tournaments working together outside the VIP layer. <\/p> <br> <h4 style = \"font-weight: bold; font-size: 24px;\"> Main Bonuses <\/h4> <ul> <li>• First Deposit — 200% up to 1,000 + 100 free spins.<\/li> <li>• Alternative Start — 250 free spins with 0x wagering.<\/li> <li>• Second Deposit — 200% up to 750 + 50 free spins.<\/li> <li>• Third Deposit — 200% up to 500 + 100 free spins.<\/li> <li>• Sports Welcome — 100% up to 1,000.<\/li> <\/ul><br> <h4 style = \"font-weight: bold; font-size: 24px;\"> Recurring Offers <\/h4> <ul> <li>• Daily Cashback — 10% up to 10,000, supporting sessions after losses.<\/li> <li>• Wednesday Reload — 100% up to 500, built for midweek activity.<\/li> <li>• Friday & Saturday SpinSanity — 77 free spins on selected slots.<\/li> <\/ul><br> <h4 style = \"font-weight: bold; font-size: 24px;\"> Tournaments and Events <\/h4> <ul> <li>• Network Tournament — prize pools up to 1,660,000.<\/li> <li>• Seasonal Tournaments — special events with pools from 3,000 and above.<\/li> <li>• Leaderboards — a competitive layer added on top of standard gameplay.<\/li> <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\"> BoomingSlots — Games and Betting Options <\/h3> <p> BoomingSlots is built primarily around slot play, and that section defines the overall identity of the platform. We focus on a wide mix of slot titles with different themes, mechanics, and pacing. The lobby includes new releases, classic slots, jackpot-style games, and Megaways formats. That matters because some users prefer a simpler structure with familiar gameplay, while others want a more layered setup with expanded payout mechanics. The catalogue includes both bold themed releases and more neutral everyday titles. Among the names highlighted across the storefront and reviews are Labour Day, Animafia, Arena Fighter, Expanding Master Jackpot, Billy Bob Boom, Sweet Bonanza, Gates of Olympus, and Big Bass Bonanza. Jackpot-oriented titles add a sense of larger upside potential over longer play. Beyond slots, we also support table games for players who prefer a more traditional rhythm. The live casino section expands that further with dealer-led formats where pace and atmosphere come from the real table experience. Reviews specifically mention live options such as Auto Roulette, Gold Blackjack, and Baccarat Imperial. This brings more than visual variety; it changes the entire playing mood. Another important strength of BoomingSlots is the presence of a sportsbook. That allows users to combine spins, live tables, and event betting inside one account area. The sports side is especially useful for players who do not want a casino-only routine. Viewed as a whole, BoomingSlots offers more than one gaming genre by linking a slot lobby, table games, live casino, and sportsbook together. That combination makes the service better suited to users with different pacing, interests, and styles of play. <\/p> <br> <h4 style = \"font-weight: bold; font-size: 24px;\"> Game Categories <\/h4> <ul> <li>• New Slots — frequent releases and fresh themes.<\/li> <li>• Classic Slots — a simple and familiar slot format.<\/li> <li>• Megaways — expanded mechanics and faster reel dynamics.<\/li> <li>• Jackpot Games — added emphasis on larger payout potential.<\/li> <li>• Table Games — traditional casino play without extra complexity.<\/li> <li>• Live Casino — roulette, blackjack, baccarat, and dealer-led tables.<\/li> <li>• Sportsbook — betting markets across popular sporting events.<\/li> <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\"> BoomingSlots — Minimum and Maximum Bets <\/h3> <p> At BoomingSlots, exact betting limits depend on the specific game, provider, and live table. The table below works as a practical reference range that helps users understand the general stake structure across key sections. Slots usually remain more flexible at the lower end, while live casino and sportsbook areas can stretch much higher at the top end. This setup supports both lighter sessions and more intensive formats inside one account. <\/p> <br> <table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-family: sans-serif; color: #ffffff;font-size:14px\"> <thead> <tr style=\"background-color: #E23721;\"> <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Game Type<\/th> <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Min Bet<\/th> <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Max Bet<\/th> <\/tr> <\/thead> <tbody> <tr > <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Slots<\/strong><\/td> <td style=\"border: 1px solid #ffffff; padding: 10px;\">£0.10<\/td> <td style=\"border: 1px solid #ffffff; padding: 10px;\">£100<\/td> <\/tr> <tr > <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Megaways<\/strong><\/td> <td style=\"border: 1px solid #ffffff; padding: 10px;\">£0.20<\/td> <td style=\"border: 1px solid #ffffff; padding: 10px;\">£200<\/td> <\/tr> <tr > <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Jackpot Slots<\/strong><\/td> <td style=\"border: 1px solid #ffffff; padding: 10px;\">£0.20<\/td> <td style=\"border: 1px solid #ffffff; padding: 10px;\">£100<\/td> <\/tr> <tr > <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Roulette<\/strong><\/td> <td style=\"border: 1px solid #ffffff; padding: 10px;\">£0.20<\/td> <td style=\"border: 1px solid #ffffff; padding: 10px;\">£5,000<\/td> <\/tr> <tr > <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Blackjack<\/strong><\/td> <td style=\"border: 1px solid #ffffff; padding: 10px;\">£1<\/td> <td style=\"border: 1px solid #ffffff; padding: 10px;\">£2,500<\/td> <\/tr> <tr > <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Baccarat<\/strong><\/td> <td style=\"border: 1px solid #ffffff; padding: 10px;\">£1<\/td> <td style=\"border: 1px solid #ffffff; padding: 10px;\">£5,000<\/td> <\/tr> <tr > <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Live Roulette<\/strong><\/td> <td style=\"border: 1px solid #ffffff; padding: 10px;\">£0.50<\/td> <td style=\"border: 1px solid #ffffff; padding: 10px;\">£5,000<\/td> <\/tr> <tr > <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Sportsbook<\/strong><\/td> <td style=\"border: 1px solid #ffffff; padding: 10px;\">£0.10<\/td> <td style=\"border: 1px solid #ffffff; padding: 10px;\">£10,000<\/td> <\/tr> <\/tbody> <\/table> <br>\n<h3 style = \"font-weight: bold;font-size: 32px;\"> BoomingSlots — Tournaments and Leaderboards: How to Join and Win <\/h3> <p> Tournaments at BoomingSlots add a competitive layer to regular play and turn each qualifying session into part of a wider race for leaderboard position. Entry usually begins automatically once the promotion is joined and the relevant games are launched. The core mechanic is the points system, which is shaped by the rules of the specific event. In most cases, qualifying spins, overall activity, and the final gameplay outcome inside selected slots all matter. Some tournament models look beyond raw turnover and place weight on result quality, such as the ratio between win and stake or the accumulated win multiplier. That makes the leaderboard more dynamic because time spent playing is not the only thing that matters. Position updates are typically shown in real time or with only a short delay, so progress can be monitored throughout the event. To compete for prizes, it is important to stay inside the qualifying game pool and follow the rules of the specific tournament. Once the event ends, rewards are usually credited automatically or released after a short result check. This makes the process easier because players do not need to confirm participation again or manually claim every stage reward. The better the tournament rules are understood, the easier it becomes to use time and bankroll efficiently. For that reason, leaderboards at BoomingSlots work best as a skill-influenced competition format rather than a random add-on. <\/p> <br> <h4 style = \"font-weight: bold; font-size: 24px;\"> How to Join <\/h4> <ul> <li>• Open the tournament promotion and review the list of qualifying games.<\/li> <li>• Join the event if opt-in is required, or start playing if entry is automatic.<\/li> <li>• Use the eligible slot titles during the tournament period.<\/li> <\/ul><br> <h4 style = \"font-weight: bold; font-size: 24px;\"> What Counts Toward Points <\/h4> <ul> <li>• The size and number of qualifying spins.<\/li> <li>• Overall gameplay activity during the event.<\/li> <li>• Final results according to the specific tournament rules.<\/li> <li>• In some mechanics, the win multiplier relative to stake.<\/li> <\/ul><br> <h4 style = \"font-weight: bold; font-size: 24px;\"> Tracking Position and Claiming Prizes <\/h4> <ul> <li>• Leaderboard position updates during the tournament.<\/li> <li>• Rankings can be followed in the tournament window or promo area.<\/li> <li>• Prizes are usually credited automatically after the event ends.<\/li> <li>• Larger rewards may go through a short final verification stage.<\/li> <\/ul><br>"
+                    }
+                },
+                "faq": {
+                    "title": "Frequently Asked Questions",
+                    "items": [
+                        {
+                            "title": "Do I need a bonus code for welcome offers?",
+                            "answer": "In many current offers, no code is needed when the bonus is selected through the deposit flow or promo page. The important part is checking which package is active before funding the account."
+                        },
+                        {
+                            "title": "Can I have more than one account?",
+                            "answer": "No. The safer operating model is one account per user. Duplicate profiles can lead to bonus restrictions, account review, or withdrawal issues."
+                        },
+                        {
+                            "title": "Can documents be requested again after the first verification?",
+                            "answer": "Yes, sometimes that can happen if payment details, address information, or account data change. Additional review may also appear around larger payouts or unusual activity."
+                        },
+                        {
+                            "title": "Is demo play available at BoomingSlots?",
+                            "answer": "Demo access depends on the individual slot and the game provider. Some titles allow a preview mode straight away, while others are designed around real-money access only."
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
